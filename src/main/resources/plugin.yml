@@ -1,0 +1,13 @@
+name: FirstPlugin
+version: '${project.version}'
+main: com.yazhal.firstplugin.FirstPlugin
+api-version: '1.20'
+commands:
+  heal:
+    description: heals
+  test:
+    description: test command
+  console:
+    description: console command
+  config:
+    description: config command

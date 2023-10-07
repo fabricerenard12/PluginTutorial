@@ -1,0 +1,15 @@
+Word: 'Banana'
+Number: 10
+Boolean: true
+String-list:
+  - 'Value1'
+  - 'Value2'
+  - 'Value3'
+
+#Test:
+#  Test1:
+#  Test2:
+#    Test2.1:
+      # Path: Test.Test2.Test2.1
+#  Test3:
+      # Path: Test.Test3
